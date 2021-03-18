@@ -1,4 +1,4 @@
-###Geoserver Extension for CKAN
+### Geoserver Extension for CKAN
 
 custom configurations:
 
